@@ -59,8 +59,7 @@ We offer two ways to set up agent-cli with all services:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/basnijholt/agent-cli.git
-cd agent-cli
+git clone https://github.com/dasmrpmunna/Al-Native-CLI-Agent---Natural-Language
 
 # 2. Run setup (installs all services + agent-cli)
 ./scripts/setup-macos.sh  # or setup-linux.sh
